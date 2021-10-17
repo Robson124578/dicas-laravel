@@ -1,4 +1,5 @@
-![2jlduu7hh4ry0q77akap](https://user-images.githubusercontent.com/38814333/137606988-8ff825af-1ca7-4b84-ab42-26c1d61fe4ee.png)
+![1-f1Br6P8KX5ga4tkS6jFpZw](https://user-images.githubusercontent.com/38814333/137607008-e4a2024b-c989-415d-bdb6-9d1adb5ca5be.png)
+
 # Dicas Laravel
 
 Esta página esta em construção, porém, já possui assuntos bastante relevantes no que diz respeito ao desenvolvimento de aplicações web com o framework Laravel.
