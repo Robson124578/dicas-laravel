@@ -1,6 +1,6 @@
 # Laravel - dicas
 
-Esta página esta em construção, porém, já possui assuntos bastante relevantes no que diz respeito ao desenvolvimento de aplicações web com o framework Laravel.
+Este apanhado de dicas esta em construção, porém, já possui assuntos bastante relevantes no que diz respeito ao desenvolvimento de aplicações web com o framework Laravel.
 
 ---
 
