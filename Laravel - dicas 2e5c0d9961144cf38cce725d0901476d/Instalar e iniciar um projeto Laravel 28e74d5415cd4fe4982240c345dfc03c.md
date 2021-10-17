@@ -1,5 +1,7 @@
 # Instalar e iniciar um projeto Laravel
 
+[Laravel - dicas](../Laravel%20-%20dicas%202e5c0d9961144cf38cce725d0901476d.md)
+
 ### Requisitos
 
 - PHP instalado no sistema e criar uma variável global.
